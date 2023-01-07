@@ -1,0 +1,9 @@
+[submodule "pcb/libraries/acheron_MXH_metalrings.pretty"]
+	path = pcb/libraries/acheron_MXH_metalrings.pretty
+	url = https://github.com/AcheronProject/acheron_MXH_metalrings.pretty.git
+[submodule "pcb/libraries/MX_Alps_Hybrid"]
+	path = pcb/libraries/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "pcb/libraries/Keebio-Parts.pretty"]
+	path = pcb/libraries/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
