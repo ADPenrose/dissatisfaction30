@@ -7,3 +7,6 @@
 [submodule "pcb/libraries/Keebio-Parts.pretty"]
 	path = pcb/libraries/Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "pcb/libraries/keebio-components"]
+	path = pcb/libraries/keebio-components
+	url = https://github.com/keebio/keebio-components.git
