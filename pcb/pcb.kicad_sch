@@ -858,7 +858,6 @@
     )
   )
 
-
   (junction (at 58.42 102.87) (diameter 0) (color 0 0 0 0)
     (uuid 0058bdf5-f630-4cb7-b23c-eaefb49c03f7)
   )
@@ -2550,7 +2549,7 @@
     (property "Value" "Elite-C" (id 1) (at 196.85 19.05 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Keebio-Parts:Elite-C" (id 2) (at 223.52 100.33 90)
+    (property "Footprint" "Keebio-Parts:Elite-C-castellated-29pin-holes" (id 2) (at 223.52 100.33 90)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 223.52 100.33 90)
@@ -4346,7 +4345,7 @@
       (reference "SW1") (unit 1) (value "RotaryEncoder_Switch") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm")
     )
     (path "/45e43045-7dd0-4e88-82a6-613fa4322bc2"
-      (reference "U1") (unit 1) (value "Elite-C") (footprint "Keebio-Parts:Elite-C")
+      (reference "U1") (unit 1) (value "Elite-C") (footprint "Keebio-Parts:Elite-C-castellated-29pin-holes")
     )
   )
 )
