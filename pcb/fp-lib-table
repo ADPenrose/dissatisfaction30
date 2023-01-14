@@ -3,4 +3,5 @@
   (lib (name "custom_parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/local/custom_parts.pretty")(options "")(descr ""))
   (lib (name "acheron_MXH_metalrings")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_MXH_metalrings.pretty")(options "")(descr ""))
   (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/libraries/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
 )

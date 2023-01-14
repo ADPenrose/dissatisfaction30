@@ -10,3 +10,6 @@
 [submodule "pcb/libraries/keebio-components"]
 	path = pcb/libraries/keebio-components
 	url = https://github.com/keebio/keebio-components.git
+[submodule "pcb/libraries/marbastlib"]
+	path = pcb/libraries/marbastlib
+	url = https://github.com/ebastler/marbastlib.git
